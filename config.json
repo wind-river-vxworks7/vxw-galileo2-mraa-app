@@ -10,6 +10,13 @@
   "icon": "images/galileo_20_20.png",
   "name": "Galileo MRAA",
   "description":"An example of using MRAA with VxWorks-7 on Intel Galileo Gen2",
+  "key": "vxw-galileo2-mraa-app",
+  "license": [
+     {
+     "type": "BSD-3-Clause",
+     "url": "http://spdx.org/licenses/BSD-3-Clause.html"
+     }
+   ],
   "tags": [
      "galileogen2",
      "vxworks-7"
